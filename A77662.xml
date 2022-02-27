@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A paradox usefull for the times.</title>
+            <author>Browne, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77662</idno>
+            <idno type="STC">Wing B5103</idno>
+            <idno type="STC">Thomason E126_21</idno>
+            <idno type="STC">ESTC R21739</idno>
+            <idno type="EEBO-CITATION">99871490</idno>
+            <idno type="PROQUEST">99871490</idno>
+            <idno type="VID">123901</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77662)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123901)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E126[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A paradox usefull for the times.</title>
+                  <author>Browne, Edward.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Edward Browne.</note>
+                  <note>Caption title.</note>
+                  <note>A defense of his moderate royalism and his works, "A description of an annuall world," 1641, "Sacred poems," 1641, and "A rare paterne of iustice and mercy," 1642.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 5th 1642 London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Browne, Edward. --  Description of an annuall world.</term>
+               <term>Browne, Edward. --  Sacred poems.</term>
+               <term>Browne, Edward. --  Rare paterne of justice and mercy.</term>
+               <term>Monarchy --  Great Britain --  Early works to 1800.</term>
+               <term>Democracy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:123901:1"/>
+            <pb facs="tcp:123901:1" rendition="simple:additions"/>
+            <head>A PARADOX Uſefull for the Times.</head>
+            <opener>
+               <salute>Gentle Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S a <hi>preludium</hi> to the enſuing diſcourſe, I would intreate you to take notice that ſome Sheetes of printed Paper that flies up and downe the Streetes of this City in <hi>Mercuries</hi> hands, are worthy of high eſtimation; ſuch are thoſe Obſervati<g ref="char:EOLhyphen"/>ons, Proteſtations, and Meſſages that truly paſſe betweene our <hi>gracious Sove<g ref="char:EOLhyphen"/>raigne,</hi> and his <hi>two Houſes of Parliament,</hi> and ſome of our eloquent <hi>Tullies,</hi> and learned <hi>Demoſthenes</hi> Ora<g ref="char:EOLhyphen"/>tions and Petitions that adhere to King and Parliament; but o<g ref="char:EOLhyphen"/>ther Pamphlets that are againſt both, are little to be regarded, ſuch is your lying Diurnals, your abſurd Paſſages, your diabolicall newes from Heaven, your horrible, terrible, and fearefull tydings, and ſuch like: and to ſome of theſe I have ſeen an Order, a Vote, or the Clarke of Parliaments name inſerted; But I beleeve the Honourable Houſe, or Clarkes never did intend ſuch things, and therefore rather thinke that the covetous Stationers doth it to make their Bookes ſell. But ſuch things being ſuffered, and wink<g ref="char:EOLhyphen"/>ed at, I doe greatly feare will be a cauſe of ruine to this Kingdome. In filling peoples mindes full of jealouſies both againſt King and Parliament. For the people of <hi>England</hi> being a free State, feare as great a tyrannicall juriſdiction in an <hi>Ariſtocraticall,</hi> or <hi>Democrati<g ref="char:EOLhyphen"/>call</hi> government, as they doe in the knowne <hi>Monarchicall</hi> State of the Kingdome. In conſideration whereof, I having plaid the foole to print 36. Sheetes of Paper at my own charge, being neither
+<pb facs="tcp:123901:2"/> againſt King nor Parliement, but for both, I was bold to caſt one ſhee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of my <hi>diaſtrous loſſes</hi> into the Preſſe. And having acted my part therein, I thought good for the vindication of my reputation in this kinde of publique writing, to let this <hi>Paradox</hi> paſſe the Preſſe likewiſe: By which, I will briefly and plainly prove, <hi>That oftentimes good doth come of evill, wiſdome from folly, and light out of darkneſſe.</hi> Yet Truth it ſelfe ſaith, <hi>That a good tree cannot bring forth evill fruit, neither can a bad tree bring forth good fruit:</hi> For anſwere whereunto: It is true, that a regenerate ſoule, though ſome Leaves of his profeſſion may wither for want of fervent zeale in the time of temptation and though ſome rotten branches of bad actions may remaine upon him for want of carefull diligence; yet if he be ſound at the heart, theſe leaves may be driven away by the tempe<g ref="char:EOLhyphen"/>ſtuous windes of afflictions, or pruned off with the ſharp knife of Repentance, and the tree will not be much the worſe, but rather the better: for inſtead of theſe old branches and leaves, there will ſpring ſtrong ſprigs, and wholeſome fruit. Contrary, though an evill man may make a glorious ſhew of his profeſſion to God<g ref="char:EOLhyphen"/>ward, and do ſome good workes of juſtice and charity towards his neighbour, to be ſeen of men, yet if they doe not ſpring from the roote of a true ſaving, juſtifying faith, he is but as the accurſed Fig-tree, that quickly withers away in the time of temptation, or in the day of affliction: But from hence let none judge raſhly of any mans election or reprobation, but judge charitably of all, though you may know them by their fruits, to learne to doe better, or to imitate their vertues. Yet notwithſtanding this objection, I will affirme my aſſertion to be true, <hi>That God hath, can, will, and doth daily bring evill out of good, wiſdome out of folly, and light out of dark<g ref="char:EOLhyphen"/>neſſe.</hi> That God <hi>hath</hi> done this in former times, I can prove by many teſtimonies, but I will inſtance only in two. The firſt ſhall be of our firſt Parents. <hi>They</hi> did very evill in eating of the forbid<g ref="char:EOLhyphen"/>den <hi>fruit,</hi> in doing evill they committed folly, and ſo did ſin a<g ref="char:EOLhyphen"/>gainſt the command of God, and by that ſin did walk in darkneſs, according to Chriſts rule, for they knew not whither to goe to hide themſelves from the all-ſearching eye of omniſcience. Now for this evill, God ſends the promiſed Meſſias, the ſeed of the wo<g ref="char:EOLhyphen"/>man, according to the fulneſſe of time: In hope whereof the Fa<g ref="char:EOLhyphen"/>thers, Patriarchs, and Prophets lived a godly and religious life,
+<pb facs="tcp:123901:2"/> which by Divines is reputed to be a greater bleſſing than <hi>Adams</hi> being in Paradiſe, for that was an earthly Lordſhip, but by this he is heire <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pparent, and joynt-heire with Chriſt of a heavenlie inheri<g ref="char:EOLhyphen"/>tance: for there he was to be but a man, but in heaven he ſhall bee as the Angels, nay more, as the Son of God. Thus the wiſdome of God the Father was given for the folly of man, and for his ſenſuall blindneſſe he had heavenly illuminations. Secondly, ſee this far<g ref="char:EOLhyphen"/>ther illuſtrated in the ſecond <hi>Adam</hi> (Chriſt) did not that Traytor <hi>Judas</hi> very evill in betraying his Lord and Maſter with a kiſſe? And for a few pieces of refined earth, to ſell a heavenly inheri<g ref="char:EOLhyphen"/>tance? Did not the Jews as bad, to ſeek the death of their Meſſias, and exclude a murtherer? Did not <hi>Pilate</hi> as bad as any, in giving judgement againſt an innocent, contrary to his owne knowledge, and the counſell of his wife? And were not the ſouldiers vile wretches to revile, and ſpit upon a meeke, and quiet Lambe, in whoſe mouth was no guile found? And were they not all fooles to put him to death, that could only give them life? Did they not walke in darkneſſe that blinded their eyes againſt the Son of righ<g ref="char:EOLhyphen"/>teouſneſſe? Therefore it appeareth plainly they loved darkneſſe better than light, and accordingly they had it, for ſure that was a diſmall day to <hi>Judas,</hi> when he went and hanged himſelfe, ſo that for very paine and vexation of ſpirit his bowels guſhed out, <hi>an ex<g ref="char:EOLhyphen"/>ample to all Traytors;</hi> and was it not as black a day to <hi>Pilate,</hi> when after he had cauſed many of the Jews, and his owne ſouldiers to be ſlaine, he went and killed himſelfe? and are not the Jewes ever ſince in a cloud and miſt of darkneſſe, knowing not whither they goe, being vagabonds upon the face of the earth, and diſperſed, and hated of all Nations? Now ſee what good this evill brought. It is plaine, It brought forth the blood of Chriſt for the redemption of mankinde, one drop whereof were able to ſave ten thouſand worlds. It is the beleevers lavor, wherein he bathes his leprous ſoule, and comes out as white as Snow. for by the bloody death, and bitter paſſion of <hi>Jeſus</hi> crucified, he doth as truly trample upon ſin, death, and hell, as if he had himſelfe performed the ſame: Now what greater benefit than the ſalvation of the ſoule? None ſurely. Againe, out of their folly did ariſe wiſdome to his redeem<g ref="char:EOLhyphen"/>ed, even the beſt of all, for the knowledge of Chriſt Jeſus crucifi<g ref="char:EOLhyphen"/>ed is more, and above all the wiſdome in the world: <hi>I deſire nothing</hi>
+               <pb facs="tcp:123901:3"/> ſaith holy <hi>Paul) but the knowledge of Chriſt Jeſus, and him crucifi<g ref="char:EOLhyphen"/>ed.</hi> Is not here then great light for darkneſſe, wiſdome for folly, and good for evill, wee ſee it apparent, it hath been ſo: behold it in the ſecond degree, that it <hi>may and can now be ſo;</hi> For God is as able and as willing as ever he was: then conſider the time where<g ref="char:EOLhyphen"/>in we live. Is it not reported for certaine, That the Kings favou<g ref="char:EOLhyphen"/>rites, and the Lordly Gentlemen did intend to bring up a Tyran<g ref="char:EOLhyphen"/>nicall juriſdiction over the Commons of England, Scotland, and Ireland, as it is in <hi>France?</hi> did they not attempt it by Monopolies, Projects, exaction in Courts of juſtice, and other wayes, was this well done? No ſure, it was very ill. Did not the Lordly Biſhops, and imperious Clergy ſeek to Lord it over Gods Inheritance, ſo to eat the honey of the poore labouring Bee, to make themſelves fat like idle Drones, was this well done? Surely no, It was very ill. Againe, It is ſaid, That <hi>ſome</hi> would have an <hi>Ariſtocraticall</hi> go<g ref="char:EOLhyphen"/>vernment in this Iſland, that hath been ſo many yeares a free <hi>Mo<g ref="char:EOLhyphen"/>narchy,</hi> thereby to make the Prince a Subject to his Nobles, and the Commons ſlaves to many imperious Lords, will this bewell? Surely no, but very ill; for I had rather be ſubject to one <hi>Royall King,</hi> and his officers, then be under ſo many diſtinct Lords, and their favourites, as I here it is beyond the Sea, where they are in<g ref="char:EOLhyphen"/>forced to pay for their owne meat and drinke, and be exacted of all their labour, which would be as grievous to an ingenuous ſpirit, as the Aegyptian bondage.</p>
+            <p>Againe, there is of late ſprung up a ſtrange kinde of Phariſaicall Teachers, who though in words they deſpiſe the kingdome of An<g ref="char:EOLhyphen"/>tichriſt, yet their deeds eſtabliſh it. And becauſe they would make people beleeve that all they utter is by the Spirit, they ſcorne the words of Chriſt, &amp; at the cloſe of their Sermons give God thanks that they have forgotten the <hi>Lords Prayer,</hi> and becauſe they would ſeeme to excell the Law and the Prophets, they expunge the fifth <hi>Commandement</hi> out of the Decalogue, and that you may ſee they have a Revelation above the Apoſtles, they cancell the 5. <hi>Article</hi> in their Creed. And thus they preach, chuſing a Text, from whence they draw an obſervation as far from it as the Eaſt is from VVeſt. Another he railes non-ſenſe againſt the Booke of Common-Prayer for its well compoſed repetitions, and never conſiders his own vain babling, another is angry, that Cheap<g ref="char:EOLhyphen"/>ſide
+<pb facs="tcp:123901:3"/> Croſſe hath more gold than he hath in his purſe: another like <hi>Diogenes</hi> in a Tub, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bbles he knowes not what, and becauſe the Church hath been uſed by Papiſts, he is afraid to come into it: &amp;c. Are theſe things well done? ſurely no. Wherein we ſhew our folly, and contemning light, we walk in darkneſſe, ſo that we know not whether wee goe nor what to doe, for theſe differences raiſed the bloody rebellion in Ireland, and doth now threaten de<g ref="char:EOLhyphen"/>ſtruction to this Kingdome. But God is the ſame God ſtill, hee <hi>can</hi> and <hi>will</hi> when he ſees beſt, bring out of all theſe evills much good in a well compoſed <hi>Monarchicall</hi> government. By this all men may learne wiſdome, and grave Senators underſtanding: and out of all this darkneſſe of error and blindneſſe, we may walke in the cleare light, and ſo ſhine Brighter and brighter, till it be perfect day, that ſo the Lord may continue to be unto us a good and a gracious God, and we may continue to be unto him a choſen ge<g ref="char:EOLhyphen"/>neration, a royall Prieſthood, a holy Nation, a peculiar people, even his own pleaſant plant. Thirdly and laſtly, That good <hi>doth daily</hi> ſpring out of evill, I would prove by many Preſidents, but I will only inſtance in my ſelfe: For I have lately made two Books, the one entituled <hi>Annuall world, and ſacred Poems,</hi> the other <hi>A rare pattern of juſtice and mercy, with a Meteor &amp; a Star,</hi> which I thought was a good work, and is ſo approved in it ſelfe by many judicious and learned men, but my ends was bad, for I did them for by re<g ref="char:EOLhyphen"/>ſpects, and not chiefly for the glory of God: which I will illuſtrate in this fable following. It is by Poets reported, that <hi>Phaeton,</hi> the too adventrous ſon of <hi>Sob,</hi> and <hi>Clymene,</hi> having with much intrea<g ref="char:EOLhyphen"/>ty obtained of his Father <hi>Phoebus,</hi> the guiding of his Chariot for one day, and being utterly unable to performe ſuch an enterpriſe, let the horſes raines ſlip, and had thereby almoſt ſet the whole world on fire, ſcorching <hi>Aethiopia,</hi> and many other places, till at length <hi>Jupiter</hi> perceiving his boldneſſe, and fearing to be burnt himſelfe, ſtruck him with a Thunderbolt, and he fell into the Ri<g ref="char:EOLhyphen"/>ver <hi>Eridanus,</hi> now called <hi>Po,</hi> or <hi>Padus;</hi> which fable, as it doth lively repreſent the picture of inconſiderate, and ambitious men in generall, ſo in particular it is verified in me, for notwithſtanding the grave advice of my late judicious, loving Maſter, Sir <hi>James Cambell,</hi> and other my friends, who wiſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> me to ſurceaſe my fruit<g ref="char:EOLhyphen"/>leſſe labour in making Bookes, eſpecially now in this paper-age,
+<pb facs="tcp:123901:4"/> wherein many ſtrive to vent the froth of their inventions into the Preſſe, ſo that lying and ſcandalous Pamphlets fly about the City in every corner, and prove vendible ware, whereas ſolid and learned mens workes are nothing regarded: And for mee to trouble my ſelfe in making Bookes, who never came within the view of double topt <hi>Parnaſſus,</hi> I meane the two Univerſities of this Iſland, and never proceeded beyond the Rudiments of learning, I meane the Grammer, it could not chuſe but prove a fruitleſſe la<g ref="char:EOLhyphen"/>bour: Yet having for ſome ſmall time converſed with Star-crown<g ref="char:EOLhyphen"/>ed <hi>
+                  <g ref="char:V">Ʋ</g>rania,</hi> that ſoul-raviſhing, and heavenly Muſe, I could not reſt ſatisfied with a little taſte of her divine <hi>Nactor,</hi> till I had ſo in<g ref="char:EOLhyphen"/>toxicated my ſences, that in a frantique humour, I have ſet the frame of heaven in a combuſtion, for I have ſtated the <hi>Sun, Moon,</hi> and <hi>Stars</hi> upon ſuch improper objects, as may cauſe amazement to the beholders. Therefore it is no wonder, if with the ſaid <hi>Phaeton,</hi> or rather with fooliſh <hi>Icarus,</hi> if I with the wings of a vaine hope, and as you may thinke an unadviſed pride, ſtriving to aſcend into a <hi>Bright</hi> firmament of favour, am caſt down into an ocean of con<g ref="char:EOLhyphen"/>tempt and diſdaine. Herein was my folly, and thus to obtaine <hi>Bright,</hi> I have walked in darkneſſe. But yet to vindicate my repu<g ref="char:EOLhyphen"/>tation in this particular, theſe Books may not unfitly be compared to thoſe holy waters <hi>Ezekiel</hi> ſaw flow out of the Sanctuary, which from a ſhallow Forde, no deeper then his ancles, became a River impaſſable, and I my ſelfe may not unfitly be compared to kinde hearted <hi>Leander,</hi> a young man in <hi>Abidos,</hi> who for the love of <hi>Ero,</hi> a beautifull Damſell of <hi>Seſtos,</hi> did oftentimes in the night ſwim over the narrow Sea of <hi>Helleſpont,</hi> it being between thoſe two Townes, to obtain the ſociety of his Love; But at length one night the Sea being rough, he was drowned: ſo I in like manner have oftentimes waded over theſe waters, but at the firſt I only drencht my foot, as is to be ſeen in <hi>Libro Amoris,</hi> and by many chearefull perambulati<g ref="char:EOLhyphen"/>ous, and loving welcomes, I had free and eaſie acceſſe to my love, at the next time thoſe Poeticall waters flowed up to my ancles, as appeareth in <hi>ſacred Poems,</hi> and with much alacrity I oft viſited her, but then theſe divine waters began to flow up to my chin, as is to be ſeen in my <hi>Annuall world,</hi> ſo that I drowned all worldly things in a ſpirituall ſence. Yet theſe I paſſed over likewiſe, and had ma<g ref="char:EOLhyphen"/>ny times the ſociety of my Love. But at the laſt theſe waters be<g ref="char:EOLhyphen"/>gan
+<pb facs="tcp:123901:4"/> to be rough, and the winds blew, and a great tempeſt aroſe, as is to be ſeen in my <hi>Meteor,</hi> ſo that I was in danger to be drowned, yet theſe I paſſed over likewiſe, and had hopes of my love. But my <hi>Patterne of Juſtice and Mercy</hi> hath captivated my ſenſes, ſo that in theſe waters I am like to be drowned, and have loſt her who was never found by me in the way I ſought her. Yet in maintenance of theſe my <hi>labours of love,</hi> I will hazzard my life and fortunes, for firſt in my <hi>Annuall world,</hi> I have not aſcribed any inherent holi<g ref="char:EOLhyphen"/>neſſe in one day above another, but made a reverend Memoran<g ref="char:EOLhyphen"/>dum, and divine meditation on every day through the year, which I thinke is lawfull, and am ſure it is the duty of every Chriſtian ſo to doe, and though I doe borrow a better forme of prayer then I am able of my ſelfe to compoſe according to my matter, though it be out of our Church Liturgy, which ſome call the Engliſh Maſſe<g ref="char:EOLhyphen"/>booke, I eſteeme of my Booke never the worſe, for I had rather ſpeak 4. or 5. words with underſtanding, then a great deale of non-ſenſe to no purpoſe. In my ſacred <hi>Poems</hi> I have uſed the aſſi<g ref="char:EOLhyphen"/>ſtance of learned <hi>Du Bartas,</hi> and other Poets elegant expreſſions on the day in generall, and all the dayes in the weeke, for which I, and ſo I hope all underſtanding people will love my Apothecaries Shop the better for ſuch variety of expreſſions, though ſome ſay this dead flie hath made all my Bookes of oyntment unſavoury. Thirdly, for my <hi>Patterne of juſtice and mercy,</hi> and my <hi>Star,</hi> there is few findes fault with, but in my <hi>Meteor</hi> they thinke to have a great advantage againſt me, beeauſe I compared my late honoured Ma<g ref="char:EOLhyphen"/>ſter to <hi>Laban</hi> and <hi>Nabal,</hi> who in bad qualities is as far unlike them, as an Apple is like an Oyſter, but for riches and honour, ſo it is true, I did compare him like them, and my unworthy ſelf like <hi>Jacob</hi> and <hi>David,</hi> for penury and poverty, and my love to <hi>Rachel</hi> in her Chriſtian name, but otherwiſe as unlike them, as Chalke is like Cheeſe: If it can be proved that <hi>Rachel</hi> is as faire and amiable as her name-ſake, if I am as induſtrious as <hi>Jacob,</hi> or as holy as <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> which is very well knowne to the contrary, then I will affirme my Maſter to be as covetous as <hi>Laban,</hi> and as churliſh as <hi>Nabal.</hi> Beſides, I thinke it no more preſumption in me to uſe theſe com<g ref="char:EOLhyphen"/>pariſons, nor diſhonour to my Maſter, or <hi>Rachel,</hi> to be ſo compa<g ref="char:EOLhyphen"/>red, then it was for <hi>Moſes</hi> to compare himſelfe like unto <hi>Chriſt, Deut.</hi> 18. 15. for it is well knowne that <hi>Moſes</hi> was borne in ſin,
+<pb facs="tcp:123901:5"/> and committed many actuall crimes, but <hi>Chriſt</hi> was free from <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther, Originall, he was conceived by the Holy Ghoſt, or actuall, there was no guile found in his mouth: but yet <hi>Moſes,</hi> as he was a Man, a Prophet, and deliverer <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Iſraelites out of Aegyptian bondage, ſo he was like <hi>Chriſt:</hi> a true man, of the fleſh of his Vir<g ref="char:EOLhyphen"/>gin mother, <hi>The Prophet of the higheſt,</hi> and deliverer of Mankinde out of Satans ſlavery. Therefore now let the moſt <hi>Criticall Para<g ref="char:EOLhyphen"/>ſite</hi> joyne himſelfe with the moſt holy that may be found, and ſhew me in particular, by writing under their hands, and not in reviling termes, with a big looke, and loud voice, (for I cannot endure ſcolding) wherein is my light with darkneſſe, or my holy and vaine unprofitable things mixed, which are altogether inconſiſtent and wherein I have diſhonoured my Maſter in my Bookes, and if I doe not ſatisfie them in the view of all the world, I will endure the greateſt puniſhment they can inflict upon me, but if they faile to do this, be they who they will that abuſed me, to my late Ma<g ref="char:EOLhyphen"/>ſter living, and doe now endeavour to overſway my judicious lo<g ref="char:EOLhyphen"/>ving friends good opinion of me, and of my honeſt endeavours, I doe here pronounce in the ſight of God, and before all the world, that they are a company of malicious detractors, wolves in ſheeps clothing, flattering Sycophants, &amp;c. But I am not alone thus wronged, for theſe kinde of people have abuſed Authority. There<g ref="char:EOLhyphen"/>fore I will commend them to ſtudy how they may vindicate their reputations, and give thankes to God, that out of my folly hee hath taught me to be ſo wiſe as to make no more Bookes, and that out of the moſt darkeſt ſentence therein I can finde a great deale of light to comfort and cheare my ſoule after all her vexations, in all places, and at all times, from this time forth for ever more, <hi>Amen.</hi>
+            </p>
+            <trailer>Soli Deo honor &amp; gloria.</trailer>
+            <closer/>
+            <postscript>
+               <lg>
+                  <l>
+                     <hi>Printed in that ſame Climacterian yeare,</hi>
+                  </l>
+                  <l>
+                     <hi>When Gods wondrous workes in this Land did appeare:</hi>
+                  </l>
+                  <l>
+                     <hi>In abaſing the proud, exalting the low,</hi>
+                  </l>
+                  <l>
+                     <hi>As Chriſt and the Prophets foretold long agoe.</hi>
+                  </l>
+               </lg>
+            </postscript>
+            <pb facs="tcp:123901:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
